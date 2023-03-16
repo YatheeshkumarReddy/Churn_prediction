@@ -1,2 +1,13 @@
+gitdb==4.0.10
+GitPython==3.1.31
 numpy==1.24.2
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+python-lsp-black @ file:///C:/Users/BUILDE~1/AppData/Local/Temp/abs_dddk9lhpp1/croots/recipe/python-lsp-black_1661852041405/work
+python-lsp-jsonrpc==1.0.0
+python-lsp-server @ file:///C:/b/abs_e44khh1wya/croot/python-lsp-server_1677296772730/work
+python-slugify @ file:///tmp/build/80754af9/python-slugify_1620405669636/work
+pytoolconfig @ file:///C:/b/abs_18sf9z_iwl/croot/pytoolconfig_1676315065270/work
+scikit-learn==1.2.1
 streamlit==1.19.0
+
